@@ -1,0 +1,8 @@
+{
+    "signupEmail":"[id='signupEmail']",
+    "singupPassword":"[id='signupPassword']",
+    "signupButton": "[data-cy='signupButton']",
+    "loginLink": "[data-cy='loginLink']",
+    "welcomeEmailCheck":"[class='checkmark']",
+    "closeButton" : "[class='Cancel']"
+}
